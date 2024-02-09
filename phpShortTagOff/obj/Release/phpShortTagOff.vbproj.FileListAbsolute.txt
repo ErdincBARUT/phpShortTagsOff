@@ -1,0 +1,11 @@
+C:\Users\Black7\source\repos\phpShortTagOff\phpShortTagOff\bin\Release\phpShortTagOff.exe.config
+C:\Users\Black7\source\repos\phpShortTagOff\phpShortTagOff\bin\Release\phpShortTagOff.exe
+C:\Users\Black7\source\repos\phpShortTagOff\phpShortTagOff\bin\Release\phpShortTagOff.pdb
+C:\Users\Black7\source\repos\phpShortTagOff\phpShortTagOff\bin\Release\phpShortTagOff.xml
+C:\Users\Black7\source\repos\phpShortTagOff\phpShortTagOff\obj\Release\phpShortTagOff.Form1.resources
+C:\Users\Black7\source\repos\phpShortTagOff\phpShortTagOff\obj\Release\phpShortTagOff.Resources.resources
+C:\Users\Black7\source\repos\phpShortTagOff\phpShortTagOff\obj\Release\phpShortTagOff.vbproj.GenerateResource.cache
+C:\Users\Black7\source\repos\phpShortTagOff\phpShortTagOff\obj\Release\phpShortTagOff.vbproj.CoreCompileInputs.cache
+C:\Users\Black7\source\repos\phpShortTagOff\phpShortTagOff\obj\Release\phpShortTagOff.exe
+C:\Users\Black7\source\repos\phpShortTagOff\phpShortTagOff\obj\Release\phpShortTagOff.xml
+C:\Users\Black7\source\repos\phpShortTagOff\phpShortTagOff\obj\Release\phpShortTagOff.pdb
